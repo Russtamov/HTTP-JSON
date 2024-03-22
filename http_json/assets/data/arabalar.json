@@ -1,0 +1,180 @@
+[
+    {
+    "araba_adi":  "Mercedes", 
+    "ulke": "Almanya",
+    "kurulus_yili": 1957,
+    "model":  [
+        {
+            "model_adi": "a serisi",
+            "fiyat": 15000,
+            "vites_tipi": "Manual",
+            "benzinli": false
+        },
+        {
+            "model_adi": "c serisi",
+            "fiyat": 20000,
+            "vites_tipi": "Otomatik",
+            "benzinli": true
+        }
+    ] 
+
+    }, 
+    
+    {
+        "araba_adi":  "Honda", 
+        "ulke": "Japonya",
+        "kurulus_yili": 1960,
+        "model":  [
+            {
+                "model_adi": "Civic",
+                "fiyat": 12000,
+                "vites_tipi": "Manual",
+                "benzinli": false
+            },
+            {
+                "model_adi": "Jazz",
+                "fiyat": 10000,
+                "vites_tipi": "Otomatik",
+                "benzinli": true
+            }
+        ] 
+    
+        },
+        {
+            "araba_adi":  "Honda", 
+            "ulke": "Japonya",
+            "kurulus_yili": 1960,
+            "model":  [
+                {
+                    "model_adi": "Civic",
+                    "fiyat": 12000,
+                    "vites_tipi": "Manual",
+                    "benzinli": false
+                },
+                {
+                    "model_adi": "Jazz",
+                    "fiyat": 10000,
+                    "vites_tipi": "Otomatik",
+                    "benzinli": true
+                }
+            ] 
+        
+            }, {
+                "araba_adi":  "Honda", 
+                "ulke": "Japonya",
+                "kurulus_yili": 1960,
+                "model":  [
+                    {
+                        "model_adi": "Civic",
+                        "fiyat": 12000,
+                        "vites_tipi": "Manual",
+                        "benzinli": false
+                    },
+                    {
+                        "model_adi": "Jazz",
+                        "fiyat": 10000,
+                        "vites_tipi": "Otomatik",
+                        "benzinli": true
+                    }
+                ] 
+            
+                },
+                {
+                    "araba_adi":  "Honda", 
+                    "ulke": "Japonya",
+                    "kurulus_yili": 1960,
+                    "model":  [
+                        {
+                            "model_adi": "Civic",
+                            "fiyat": 12000,
+                            "vites_tipi": "Manual",
+                            "benzinli": false
+                        },
+                        {
+                            "model_adi": "Jazz",
+                            "fiyat": 10000,
+                            "vites_tipi": "Otomatik",
+                            "benzinli": true
+                        }
+                    ] 
+                
+                    }, {
+                        "araba_adi":  "Honda", 
+                        "ulke": "Japonya",
+                        "kurulus_yili": 1960,
+                        "model":  [
+                            {
+                                "model_adi": "Civic",
+                                "fiyat": 12000,
+                                "vites_tipi": "Manual",
+                                "benzinli": false
+                            },
+                            {
+                                "model_adi": "Jazz",
+                                "fiyat": 10000,
+                                "vites_tipi": "Otomatik",
+                                "benzinli": true
+                            }
+                        ] 
+                    
+                        },
+                        {
+                            "araba_adi":  "Honda", 
+                            "ulke": "Japonya",
+                            "kurulus_yili": 1960,
+                            "model":  [
+                                {
+                                    "model_adi": "Civic",
+                                    "fiyat": 12000,
+                                    "vites_tipi": "Manual",
+                                    "benzinli": false
+                                },
+                                {
+                                    "model_adi": "Jazz",
+                                    "fiyat": 10000,
+                                    "vites_tipi": "Otomatik",
+                                    "benzinli": true
+                                }
+                            ] 
+                        
+                            }, {
+                                "araba_adi":  "Honda", 
+                                "ulke": "Japonya",
+                                "kurulus_yili": 1960,
+                                "model":  [
+                                    {
+                                        "model_adi": "Civic",
+                                        "fiyat": 12000,
+                                        "vites_tipi": "Manual",
+                                        "benzinli": false
+                                    },
+                                    {
+                                        "model_adi": "Jazz",
+                                        "fiyat": 10000,
+                                        "vites_tipi": "Otomatik",
+                                        "benzinli": true
+                                    }
+                                ] 
+                            
+                                },
+                                {
+                                    "araba_adi":  "Honda", 
+                                    "ulke": "Japonya",
+                                    "kurulus_yili": 1960,
+                                    "model":  [
+                                        {
+                                            "model_adi": "Civic",
+                                            "fiyat": 12000,
+                                            "vites_tipi": "Manual",
+                                            "benzinli": false
+                                        },
+                                        {
+                                            "model_adi": "Jazz",
+                                            "fiyat": 10000,
+                                            "vites_tipi": "Otomatik",
+                                            "benzinli": true
+                                        }
+                                    ] 
+                                
+                                    }
+]
